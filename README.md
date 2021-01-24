@@ -13,3 +13,6 @@ Benjamin Davis
 Tyler Shellman
 Hello! I've lived in the Portland Oregon area my whole life. Served a mission in Fort Collins Colorado from 2017 to 2019. I like being active, I enjoy spikeball, soccer, parkour, and breakdancing.
 main
+
+Moses Diaz
+My name is Moses Diaz. I am from Logan Utah. I am studying sofware engineering and hope that I can do well in this class. Sorry team for being slow, didn't realize I wasn't getting slack notifications.
