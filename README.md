@@ -15,4 +15,4 @@ Hello! I've lived in the Portland Oregon area my whole life. Served a mission in
 main
 
 Moses Diaz
-My name is Moses Diaz. I am from Logan Utah. I am studying sofware engineering and hope that I can do well in this class. Sorry team for being slow, didn't realize I wasn't getting slack notifications.
+My name is Moses Diaz and I am from Logan Utah. I like ham.
